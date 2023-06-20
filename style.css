@@ -1,0 +1,374 @@
+.nav{
+    background-color: white;
+    height: 77px;
+    position: fixed;
+    width: 1364px;
+    margin-top: -21px;
+}
+
+.img1{
+    height: 62px;
+    width: 185px;
+    margin-top: 16px;
+    margin-left: 20px;
+}
+
+/* .Main{
+    margin-left: 97px;
+    margin-top: -40px;
+    padding-left: 5px;
+    height: 40px;
+} */
+
+.div1{
+    color: rgb(103, 117, 148);
+    margin-left: 212px;
+    width: 100px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top:24px;
+    font-family: "Atlas Grotesk",sans-serif;
+    font-weight: 900;
+}
+
+.div1:hover{
+    background-image: linear-gradient(white,lightblue);
+
+}
+
+.div2{
+    color: rgb(103, 117, 148);
+    margin-left: 320px;
+    width: 85px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 28px;
+    font-family: "Atlas Grotesk",'Regular';
+    font-weight: 900;
+}
+
+.div2:hover{
+    background-image: linear-gradient(white,lightblue);
+
+}
+
+.div3{
+    color: rgb(103, 117, 148);
+    margin-left: 415px;
+    width: 85px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 29px;
+    font-family: "Atlas Grotesk",sans-serif;
+    font-weight: 900; 
+}
+
+.div3:hover{
+    background-image: linear-gradient(white,lightblue);
+}
+.div4{
+    color: rgb(103, 117, 148);
+    margin-left: 517px;
+    width: 150px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 28px;
+    font-family: "Atlas Grotesk",sans-serif;
+    font-weight: 900; 
+}
+
+.div4:hover{
+    background-image: linear-gradient(white,lightblue);
+}
+
+.btn1{
+
+    margin-left: 1119px;
+    margin-top: -51px;
+    padding-left: 20px;
+    padding-top: 11px;
+    width: 72px;
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 29px;
+    border-color: blue;
+    color: blue;
+}
+.btn2{
+
+    margin-left: 1233px;
+    margin-top: -44px;
+    padding-left: 20px;
+    padding-top: 11px;
+    width: 72px;
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 29px;
+    background-color:#FA4371;
+    border-color:#FA4371;
+    color:white;
+    font-family: "Biofolio Ultimate";
+    font-weight: 700;
+}
+
+.btn1:hover{
+    background-color: lightcyan;
+}
+
+.land1{
+    background-color:white;
+    height: 500px;
+}
+
+.head{
+    padding-top: 98px;
+    padding-left: 94px;
+    font-size: 64px;
+    font-family: sans-serif;
+    font-weight: 500px;
+}
+
+.cl{
+    margin-top: -68px;
+}
+
+.par
+{
+    margin-left: 96px;
+    font-size: 20px;
+    margin-top: -27px;
+    color: grey;
+}
+
+.btns{
+   
+    margin-left: 97px;
+    margin-top: -51px;
+    padding-left: 20px;
+    padding-top: 11px;
+    width: 72px;
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 34px;
+    border-color: rgb(49, 107, 232);
+    color: white;
+    background-color:rgb(49, 107, 232) ;
+    margin-top: -2px;
+    width: 107px;
+}
+
+.btns1{
+   
+    margin-left: 411px;
+   
+    padding-left: 20px;
+    padding-top: 11px;
+    width: 72px;
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 33px;
+    border-color: #FA4371;
+    color: white;
+    background-color: #FA4371;
+    margin-top: -45px;
+    width: 121px;
+}
+
+.p1{
+    margin-left: 98px;
+    margin-top: 47px;
+}
+
+.p2{
+    margin-left: 411px;
+    margin-top: -36px;
+}
+
+.sv{
+    margin-left: 674px;
+    margin-top: -476px;
+}
+
+.land2{
+    background-color: white;
+    margin-top: 87px;
+    height: 700px;
+    padding-left: 330px;
+    padding-top: 125px;
+    font-size: 40px;
+}
+
+.p3{
+    font-size: 18px;
+    margin-left: -80px;
+    line-height: 8px;
+    font-weight: 100;
+}
+
+.img {
+    margin-left: -330px;
+    margin-top: 97px;
+}
+
+.fundamentals
+{
+    margin-left: 411px;
+    margin-top: -444px;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.p4{
+    font-size: 21.6px;
+}
+
+.u{
+    font-size: 17.6px;
+    line-height: 24px;
+}
+
+.divb{
+    height: 41px;
+    width: 177px;
+    border: solid 2px  rgb(49, 107, 232);
+    border-radius: 25px;
+    background-color: rgb(49, 107, 232);
+    color: white;
+    font-size: 25px;
+
+}
+h6{
+    margin-top: 8px;
+    margin-left: 26px;
+}
+
+.land3{
+    height: 500px;
+    background-color: white;
+}
+
+.write{
+    margin-left: 100px;
+    font-size: 37px;
+    padding-top: 70px;
+}
+
+.p5{
+    font-size: 19px;
+}
+
+.divc{
+    border: solid 2px  rgb(49, 107, 232);
+    width: 145px;
+    height: 37px;
+    padding-left: -6px;
+    font-size: 24px;
+    border-radius: 19px;
+    color: white;
+    background-color:  rgb(49, 107, 232);
+}
+
+.img3{
+    margin-left: 569px;
+    margin-top: -370px;
+
+}
+
+.land4{
+    background-color:#EFF3FD;
+    height: 1231px;
+    
+}
+
+.sec{
+    height: 370px;
+    width: 262px;
+    background-color:white;
+    margin-left: 144px;
+    /* margin-top: 270px; */
+    border-radius: 21px;
+    overflow: hidden;
+    box-shadow: 3px 3px 8px 3px lightgray;
+
+}
+
+.divs{
+    display: flex;
+}
+
+.p{
+    margin-left: 79px;
+    font-size:24px ;
+    margin-top: -7px;
+    color: grey;
+}
+
+.sec_1{
+    height: 370px;
+    width: 262px;
+    background-color:white;
+    margin-left: 144px;
+    margin-top: 69px;
+    border-radius: 21px;
+    overflow: hidden;
+    box-shadow: 3px 3px 8px 3px lightgray;
+
+
+}
+
+.h12{
+    text-align: center;
+    padding-top: 98px;
+    padding-bottom: 90px;
+    font-size: 35px;
+}
+
+.p6{
+    text-align: center;
+    margin-top: -114px;
+    padding-bottom: 100px;
+    font-size: 20px;
+    color: grey;
+}
+
+.land5{
+    height: 300px;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 35px;
+}
+
+.btn_2{
+   border: 2px solid   rgb(49, 107, 232);
+   width: 128px;
+   height: 36px;
+   margin:0 auto;
+   border-radius: 22px;
+   color: white;
+   background-color: rgb(49, 107, 232) ;
+}
+
+#pv{
+    padding-top: 10px;
+    margin-top: 0px;
+    font-size: 16px;
+}
+
+.footer{
+    background-color:#F6F7F8;
+    height: 300px;
+
+}
+
+.fot{
+    height: 51px;
+    margin-top: 63px;
+    margin-left: 21px;
+
+}
+
+.las_fut{
+    display: flex;
+    margin-left: 552px;
+    padding-left: 10px;
+}
