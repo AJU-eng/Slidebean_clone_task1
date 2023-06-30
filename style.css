@@ -331,6 +331,16 @@ h6{
     color: grey;
 }
 
+.hello{
+    margin-left: 20px;
+    line-height: 34px;
+
+}
+
+.font{
+    font-size: 14px;
+}
+
 .land5{
     height: 300px;
     text-align: center;
