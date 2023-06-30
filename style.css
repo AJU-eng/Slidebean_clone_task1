@@ -31,55 +31,29 @@
     font-weight: 900;
 }
 
-.div1:hover{
-    background-image: linear-gradient(white,lightblue);
-
+.main_div{
+    display: flex;
+    margin-left: 200px;
 }
 
-.div2{
-    color: rgb(103, 117, 148);
-    margin-left: 320px;
-    width: 85px;
-    height: 40px;
-    padding-left: 15px;
-    padding-top: 28px;
-    font-family: "Atlas Grotesk",'Regular';
+
+.divs{
     font-weight: 900;
-}
-
-.div2:hover{
-    background-image: linear-gradient(white,lightblue);
-
-}
-
-.div3{
-    color: rgb(103, 117, 148);
-    margin-left: 415px;
-    width: 85px;
     height: 40px;
     padding-left: 15px;
-    padding-top: 29px;
-    font-family: "Atlas Grotesk",sans-serif;
-    font-weight: 900; 
-}
-
-.div3:hover{
-    background-image: linear-gradient(white,lightblue);
-}
-.div4{
     color: rgb(103, 117, 148);
-    margin-left: 517px;
-    width: 150px;
-    height: 40px;
-    padding-left: 15px;
-    padding-top: 28px;
-    font-family: "Atlas Grotesk",sans-serif;
-    font-weight: 900; 
+    margin-left: 30px;
 }
 
-.div4:hover{
+
+.divs:hover{
     background-image: linear-gradient(white,lightblue);
+
 }
+
+
+
+
 
 .btn1{
 
@@ -129,7 +103,7 @@
 }
 
 .cl{
-    margin-top: -68px;
+    margin-top: -44px;
 }
 
 .par
