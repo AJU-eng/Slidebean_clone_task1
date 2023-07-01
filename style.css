@@ -37,7 +37,7 @@
 }
 
 
-.divs{
+.divl{
     font-weight: 900;
     height: 40px;
     padding-left: 15px;
@@ -46,7 +46,7 @@
 }
 
 
-.divs:hover{
+.divl:hover{
     background-image: linear-gradient(white,lightblue);
 
 }
